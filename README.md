@@ -110,6 +110,7 @@
 Ссылка на проект Telegram: @SPASOP_GA_bot
 Скриншоты  моего приложения:
 ![Скриншот_1](https://github.com/Ksenocid/AI_assistent/blob/main/2025-02-26%2018_58_11-%D0%A1%D0%B0%D0%B2%D0%B2%D0%B8.png?raw=true)
-![Скриншот_2]https://github.com/Ksenocid/AI_assistent/blob/main/2025-02-26%2017_57_28-%E2%80%8ESPASOP_GA%20%E2%80%93%20(255242).png?raw=true
+![Скриншот_1](https://github.com/Ksenocid/AI_assistent/blob/main/2025-02-26%2017_57_28-%E2%80%8ESPASOP_GA%20%E2%80%93%20(255242).png?raw=true)
+
 > **"Спасение начинается с подготовки"**  
 > — Слоган проекта AI-Assistent 🚑📚  
